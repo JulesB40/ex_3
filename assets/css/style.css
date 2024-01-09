@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.subtitle {
+    color: red;
+    text-transform:uppercase;
+}
+
+.title {
+    background-image:url(./../images/1920x700.jpg);
+}
+
+.title h1 {
+    padding: 300px 0;
+}
+
+#position {
+    position: relative;
+}
+
+.position {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    color: red;
+    /*commentaire*/
+}
